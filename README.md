@@ -1,4 +1,4 @@
-- 👋 Hi, I’m narshima141
+- 👋 Hi, I’m Narshima K
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack
 
